@@ -1,0 +1,100 @@
+---
+authors:
+- admin
+categories:
+- 科研
+date: "2022-10-01T00:00:00Z"
+draft: false
+featured: false
+image:
+  caption: 'Link'
+  focal_point: ""
+  placement: 2
+  preview_only: false
+lastmod: "2022-10-03T00:00:00Z"
+projects: []
+summary: "将自己阅读近30年经济学理论文献的若干心得用自己的语言写出来  —-平新乔 "
+tags:
+- 微观经济学
+- 笔记
+title: " [教材|笔记] 微观经济学十八讲 "
+
+output:
+  html_document: default
+  pdf_document: default
+---
+
+
+
+<div id="消费者理论" class="section level1">
+<h1>消费者理论</h1>
+<div id="第一讲-偏好效用与消费者的基本问题" class="section level2">
+<h2>第一讲 偏好、效用与消费者的基本问题</h2>
+<p><strong>需求</strong>的三要素：<strong>偏好</strong>（消费集[consumption set]或选择集[choice set]；偏好关系[preference relation]）、<strong>价格</strong>（相对价格）、<strong>收入</strong><br />
+* 价格+收入=预算集（可行的）<br />
+* 偏好+预算集[budget set]=需求</p>
+<div id="第一节-消费者与偏好关系" class="section level3">
+<h3>第一节 消费者与偏好关系</h3>
+<ol style="list-style-type: decimal">
+<li>消费集 $ =  _{+}^{n} $<br />
+① <span class="math inline">\(\phi \ne \mathbf{X} \subseteq \mathbf{R} _{+}^{n}\)</span><br />
+② <span class="math inline">\(\mathbf{X}\)</span>为<strong>闭集</strong>（所有的极限点[分析的概念，在集合中能找到一个子集以这个点为极限，或不包含该点本身的任意小的空心邻域都与集合有交集的点；单点集也是闭集]也包含在内）<br />
+③ <span class="math inline">\(\mathbf{X}\)</span>为<strong>凸</strong>（任意线性组合也包含在内）<br />
+④ <span class="math inline">\(0\in \mathbf{X}\)</span> （可以选择不消费）</li>
+<li>偏好关系 $$ （至少一样好）<br />
+【公理1】 完备性： 对于消费集中任意<span class="math inline">\(x^{1}, x^{2}\)</span>，有<span class="math inline">\(x^{1} \succeq x^{2}\)</span> 或 <span class="math inline">\(x^{2} \succeq x^{1}\)</span>
+【公理2】 反身性：对于消费集中所有的<span class="math inline">\(x\)</span>，<span class="math inline">\(x\succeq x\)</span> (至少和本身一样好)
+【公理3】 传递性：对于消费集中任意<span class="math inline">\(x^{1}, x^{2}, x^{3}\)</span>，如果<span class="math inline">\(x^{1} \succeq x^{2}\)</span> 和 <span class="math inline">\(x^{2} \succeq x^{3}\)</span>，则<span class="math inline">\(x^{1} \succeq x^{3}\)</span> （选择是一致的）<br />
+满足公理1、2、3的偏好关系是<strong>理性</strong>的（rationality）<br />
+【公理4】连续性：对于消费集中的任意<span class="math inline">\(x\)</span>，偏好于<span class="math inline">\(x\)</span>的与非偏好于<span class="math inline">\(x\)</span>的集合都是闭集（不满足的例子：字典序偏好[实例：买火车票，先看时期，后看等级]）——偏好不会发生突发性的逆转<br />
+【公理5’】局部非餍足性：对于消费集中的所有的<span class="math inline">\(x^{0}\)</span>，都有<span class="math inline">\(x\in B_{\varepsilon }(x^{0})\cap \mathbf{R} _{+}^{n},(\varepsilon&gt;0)\)</span>，则<span class="math inline">\(x^{1} \succeq x^{2}\)</span>——不存在无差异区域<br />
+【公理5】单调性：对于消费集中的任意<span class="math inline">\(x^{1}, x^{2}\)</span>，若<span class="math inline">\(x^{1} \ge x^{2}\)</span>，则<span class="math inline">\(x^{1} \succeq x^{2}\)</span>；若<span class="math inline">\(x^{1} \gg x^{2}\)</span>，则<span class="math inline">\(x^{1} \succ x^{2}\)</span> ——排除了无差异曲线中斜率为正的线段<br />
+满足公理4、5的理性偏好关系是<strong>自然</strong>的<br />
+【公理6’】凸性：如果<span class="math inline">\(x^{1} \succeq x^{0}\)</span>，对于任意<span class="math inline">\(\lambda \in [0,1]\)</span>，都有<span class="math inline">\(\lambda x^{1} + (1- \lambda)x^{0} \succeq x^{0}\)</span> ——无差异曲线不能凹向原点<br />
+【公理6】严格凸性：——无差异曲线凸向原点</li>
+</ol>
+</div>
+<div id="第二节-效用函数" class="section level3">
+<h3>第二节 效用函数</h3>
+<ol style="list-style-type: decimal">
+<li>效用函数
+一个实函数<span class="math inline">\(u\)</span>，当且仅当<span class="math inline">\(x^{1} \succeq x^{2}\)</span>,有<span class="math inline">\(u(x^{1})\ge u(x^{2})\)</span>
+消费者的偏好分析——&gt;函数的数学分析
+满足存在性，不满足唯一性（效用函数的单调变换）<br />
+</li>
+<li>边际效用(MU: marginal utility)
+效用函数对<span class="math inline">\(x\)</span>求一阶导</li>
+<li>边际替代率(MRS: marginal rate of substitution)
+对无差异曲线进行隐函数求导<br />
+<span class="math display">\[MRS_{i,j}(x)=\frac{\frac{\partial u(x)}{\partial x_{j}} }{\frac{\partial u(x)}{\partial x_{i}} }  \]</span>
+<span class="math inline">\(i\)</span>对（对于）<span class="math inline">\(j\)</span>的替代，（1单位<span class="math inline">\(i\)</span>能替代几单位<span class="math inline">\(j\)</span>）,<span class="math inline">\(i\)</span>在分母，<span class="math inline">\(j\)</span>在分子，经济学的约定俗成</li>
+</ol>
+</div>
+<div id="第三节-消费者的基本问题" class="section level3">
+<h3>第三节 消费者的基本问题</h3>
+<ol style="list-style-type: decimal">
+<li><p>消费者偏好的基本性质<br />
+① 不同的无差异曲线不能相交<br />
+② 每条无差异曲线严格凸向原点<br />
+③ 越朝右上，无差异曲线代表的效用水平越高</p></li>
+<li><p>预算集<br />
+<span class="math display">\[B=\left \{x|x \in \mathbf{R}_{+}^{n}, p\cdot x \le y \right \}\]</span></p></li>
+<li><p>消费者的基本问题<br />
+给定预算集选择消费计划最大化效用函数（用拉格朗日方法求解）
+解得（马歇尔）需求函数：<span class="math inline">\(x_{i}=f(p,y)\)</span> (所有商品价格和收入的函数)<br />
+性质：<br />
+① 物品<span class="math inline">\(i\)</span>的边际效用与物品<span class="math inline">\(j\)</span>的边际效用之比等于它们的价格之比$ =  $<br />
+② 消费者问题存在最优解时，预算线斜率与无差异曲线的斜率相等，即共公切线<br />
+③ 等边际法则：边际效用除以价格等于影子价格</p></li>
+<li><p>效用函数的单调变换（序数效用论）<br />
+从本质上看，单调变换和一个单调函数是一回事。<br />
+例子：<br />
+① 对原效用函数乘上一个正数<br />
+② 对原效用函数加上任意一个数<br />
+③ 对原效用函数取奇次幂<br />
+④ 对数函数与指数函数互为单调变换函数</p></li>
+</ol>
+<p>未完待续……</p>
+</div>
+</div>
+</div>

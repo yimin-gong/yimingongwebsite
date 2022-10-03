@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学术讲座 | GYM</title>
+    <link>/tag/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/</link>
+      <atom:link href="/tag/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/index.xml" rel="self" type="application/rss+xml" />
+    <description>学术讲座</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>学术讲座</title>
+      <link>/tag/%E5%AD%A6%E6%9C%AF%E8%AE%B2%E5%BA%A7/</link>
+    </image>
+    
+    <item>
+      <title> 做科研为何要听讲座？ </title>
+      <link>/post/2022-08-04-reading/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>/post/2022-08-04-reading/</guid>
+      <description>
+
+
+&lt;p&gt;听科研讲座有几大好处：&lt;/p&gt;
+&lt;p&gt;首先是启迪思想，获取新的想法；&lt;br /&gt;
+其次是获取知识，快速入门领域；&lt;br /&gt;
+然后是学习逻辑，训练展示能力；&lt;br /&gt;
+最后时派师学艺，寻找潜在伙伴。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

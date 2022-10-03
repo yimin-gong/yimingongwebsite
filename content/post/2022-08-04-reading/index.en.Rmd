@@ -1,0 +1,28 @@
+---
+authors:
+- admin
+categories:
+- 科研
+date: "2022-07-01T00:00:00Z"
+draft: false
+featured: false
+image:
+  caption: 'Link'
+  focal_point: ""
+  placement: 2
+  preview_only: false
+lastmod: "2022-5-25T00:00:00Z"
+projects: []
+summary: "故人具鸡黍，邀我至田家。——孟浩然 "
+tags:
+- 学术讲座
+title: " 做科研为何要听讲座？ "
+
+---
+
+听科研讲座有几大好处：  
+
+首先是启迪思想，获取新的想法；  
+其次是获取知识，快速入门领域；  
+然后是学习逻辑，训练展示能力；  
+最后时派师学艺，寻找潜在伙伴。

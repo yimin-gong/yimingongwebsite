@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhs | Yimin Gong</title>
+    <link>/zh/zh/</link>
+      <atom:link href="/zh/zh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhs</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 04 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Zhs</title>
+      <link>/zh/zh/</link>
+    </image>
+    
+    <item>
+      <title>做科研为何要听讲座？</title>
+      <link>/zh/zh/post/2022-08-04-/</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/zh/zh/post/2022-08-04-/</guid>
+      <description>
+
+
+&lt;p&gt;听科研讲座有几大好处？
+首先是启迪思想，获取新的想法
+其次是获取知识，快速入门领域
+然后是学习逻辑，训练展示能力
+最后时派师学艺，寻找潜在伙伴&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[科研|哲学] </title>
+      <link>/zh/zh/post/2022-06-05-/</link>
+      <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/zh/zh/post/2022-06-05-/</guid>
+      <description>
+
+
+&lt;p&gt;在经济学初期的计量训练中，我们使用直观的线性回归方程期望估计出来平均处理效应（ATT/ATE）。在随着学习的深入，我们借助异质性分析（或心理学、管理学中的调节效应分析），希望得到条件平均处理效应（CATE）来帮助我们强化经济学研究想要做到的因果推断。因为是平均处理效应，所以我们对数据进行缩尾等处理也显得合理化。&lt;br&gt;
+在最近比较流行的机器学习方法中，利用文本分析生成新指标变得越来越常见。但是需要注意是关键少数不得弄错，否则可能会因为辛普森悖论（本质上是一种遗漏变量的选择偏差）产生相反的估计结果。在这里关键少数的存在早在好几十年前便被总结为齐夫定律（Zipf’s law），其内容为在自然语言的语料库里，一个单词出现的频率与它在频率表里的排名成反比。&lt;br&gt;
+齐夫定律本质上是一种幂律分布（Power law distribution），其在自然界和经济社会十分常见。&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
