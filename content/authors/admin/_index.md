@@ -4,7 +4,7 @@ bio: My research interests include innovation, behavioral finance and corporate 
 education:
   courses:
   - course: PhD🌈
-    institution: 🙏
+    institution: Nankai University
     year: 2023-
   - course: Master's Degree in Economics
     institution: Shandong University
@@ -12,16 +12,16 @@ education:
   - course: Bachelor in Economics
     institution: Tianjin University of Finance and Economics
     year: 2016-2020
-email: "202010153@mail.sdu.edu.cn"
+email: "gym@mail.nankai.edu.cn"
 highlight_name: true
 interests:
+- Finance
 - Innovation
-- Behavioral Finance
 - Corporate Finance
 organizations:
-- name: SDU
-  url: https://www.sdu.edu.cn/
-role: Student of Finance
+- name: NKU
+  url: https://www.nankai.edu.cn/
+role: PhD Student of Finance
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,10 +33,10 @@ social:
   icon_pack: fab
   link: https://space.bilibili.com/401028462
 superuser: true
-title: Yimin Gong (Ian)
+title: GONG Yimin (Frank)
 ---
 
-Yimin Gong is a postgraduate student of School of Economics at Shandong University. His research interests include innovation, behavioral finance and corporate finance.
+I‘m a PhD Student in school of economics at Nankai University and I specialize in Finance. My research bridges the studies on finance and innovation, which are two crucial academic fields in the broad economic literature. The connection is through two classical decisions in corporate finance: financing and investment.
 
 Don't Panic🐕🛹🌌
 
